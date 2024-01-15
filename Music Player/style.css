@@ -89,3 +89,8 @@ nav {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.22);
     cursor: pointer;
 }
+.controls div:nth-child(2) {
+    background: #f53192;
+    color: #fff;
+    transform: scale(1.5);
+}
